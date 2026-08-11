@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E30B0B&center=true&vCenter=true&width=435&lines=Incoming+CIS+Major;Nobara+Linux+Daily+Driver;Building+in+Python+%26+Java;Aspiring+SysAdmin+%2F+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E30B0B&center=true&vCenter=true&width=435&lines=CIS+Major;Linux+Daily+Driver;Python;Aspiring+SysAdmin+%2F+Dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Nobara_Linux-000000?style=for-the-badge&logo=linux&logoColor=E30B0B" alt="Nobara" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E30B0B" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=E30B0B" alt="Java" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E30B0B" alt="Git" />
 </div>
 
