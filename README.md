@@ -7,7 +7,7 @@
 ### 🚀 Tech Stack & OS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Nobara_Linux-000000?style=for-the-badge&logo=linux&logoColor=E30B0B" alt="Nobara" />
+  <img src="https://img.shields.io/badge/Fedora_Linux-000000?style=for-the-badge&logo=linux&logoColor=E30B0B" alt="Fedora" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E30B0B" alt="Python" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E30B0B" alt="Git" />
 </div>
