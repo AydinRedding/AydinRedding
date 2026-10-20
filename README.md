@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E30B0B&center=true&vCenter=true&width=435&lines=CIS+Major;Linux+Daily+Driver;Python;Aspiring+SysAdmin+%2F+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E30B0B&center=true&vCenter=true&width=435&lines=Cybersecurity+Major;Aspiring+Linux+SysAdmin+%2F+Dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -23,7 +23,7 @@
 ---
 
 ### ⚡ Current Objectives
-- 🎓 **Studying:** Computer Information Systems (AAS)
-- ⚙️ **Building:** A custom all-AMD rig running Arch/CachyOS
-- 🎮 **Developing:** Custom games / game mods, automation scripts, and web apps
-- 💡 **Goal:** Landing a Help Desk or Junior IT role to build industry experience
+- 🎓 **Studying:** Cybersecurity (AAS)
+- ⚙️ **Building:** A custom all-AMD rig running Fedora
+- 🎮 **Developing:** A working shell from scratch
+- 💡 **Goal:** Landing a junior Linux sysadmin out of College
